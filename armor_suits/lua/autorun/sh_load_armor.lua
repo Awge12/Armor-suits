@@ -59,8 +59,8 @@ for k, v in pairs( Armor.Data ) do
     ENT.Type = "anim"
     ENT.Base = "base_gmodentity"
     ENT.PrintName = v.Name
-    ENT.Author = "Crackhead On Anime"
-        ENT.Category = "Suits"
+    ENT.Author = "Vivo"
+    ENT.Category = "Suits"
         
     ENT.Spawnable = true
     
